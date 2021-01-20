@@ -1,4 +1,5 @@
 # Quantifying Christie
+The purpose of this project was to analyze the linguistic differences between Hercule Poirot and Miss Jane Marple, Agatha Christie's two most popular detectives, and attempt to discern the identities of the murderers based on language cues.
 
 ## Texts
 The corpus used in this analysis consisted of twenty novels featuring Hercule Poirot or Jane Marple. They have been omitted from this repository for copyright purposes. A list of the novels is below:
